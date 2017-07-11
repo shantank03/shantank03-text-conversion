@@ -5,74 +5,41 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.org/license
 
-
 Title: Dracula
-
 Author: Bram Stoker
-
 Release Date: August 16, 2013 [EBook #345]
-
 Language: English
 
-
 *** START OF THIS PROJECT GUTENBERG EBOOK DRACULA ***
-
-
-
 
 Produced by Chuck Greif and the Online Distributed
 Proofreading Team at http://www.pgdp.net (This file was
 produced from images generously made available by The
 Internet Archive)
 
+# DRACULA
 
 
+DRACULA by Bram Stoker
 
 
+[Illustration: colophon]
 
 
-                                DRACULA
+NEW YORK
+GROSSET & DUNLAP
+Publishers
 
 
+Copyright, 1897, in the United States of America, according to Act of Congress, by Bram Stoker
+[_All rights reserved._]
+PRINTED IN THE UNITED STATES AT THE COUNTRY LIFE PRESS, GARDEN CITY, N.Y.
 
 
-
-                                DRACULA
-
-                                  _by_
-
-                              Bram Stoker
-
-                        [Illustration: colophon]
-
-                                NEW YORK
-
-                            GROSSET & DUNLAP
-
-                              _Publishers_
-
-      Copyright, 1897, in the United States of America, according
-                   to Act of Congress, by Bram Stoker
-
-                        [_All rights reserved._]
-
-                      PRINTED IN THE UNITED STATES
-                                   AT
-               THE COUNTRY LIFE PRESS, GARDEN CITY, N.Y.
+TO MY DEAR FRIEND HOMMY-BEG
 
 
-
-
-                                   TO
-
-                             MY DEAR FRIEND
-
-                               HOMMY-BEG
-
-
-
-
-CONTENTS
+## CONTENTS
 
 
 CHAPTER I
@@ -192,9 +159,9 @@ DRACULA
 
 
 
-CHAPTER I
+### CHAPTER I
 
-JONATHAN HARKER'S JOURNAL
+**JONATHAN HARKER'S JOURNAL**
 
 (_Kept in shorthand._)
 
