@@ -20,8 +20,7 @@ The Declaration of Independence of The United States of America
 by Thomas Jefferson
 Edition 1, (October 12, 2005)
 
-THE DECLARATION OF INDEPENDENCE OF THE UNITED STATES OF AMERICA
-
+# THE DECLARATION OF INDEPENDENCE OF THE UNITED STATES OF AMERICA
 
                         IN CONGRESS, July 4, 1776
 
